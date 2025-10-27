@@ -1,13 +1,1 @@
 # Package.json
-{
-  "name": "website-bot",
-  "version": "1.0.0",
-  "main": "index.js",
-  "scripts": {
-    "start": "node index.js"
-  },
-  "dependencies": {
-    "node-telegram-bot-api": "^0.64.0",
-    "express": "^4.18.2"
-  }
-}
